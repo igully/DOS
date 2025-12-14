@@ -24,3 +24,7 @@ SANE - An all-in-one reboot and shutdown program for DOS that works on any PC,
        even on ancient 8088 XT and, of course, on a modern ATX one, where it 
        actually powers down the system. It also has a few extras like BIOS 
        password resetting and attempts to stabilize DOS when chaos ensues.
+
+With_Others:
+-----------
+Sparrow Commander.ver.1.23.English.zip - Updated and bugfixed version of this tiny file manager.
