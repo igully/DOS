@@ -5,7 +5,7 @@ COLOUR - In EDR-DOS, COLOUR is present as a statement in its CONFIG.SYS
          counterpart. Its syntax is quite cumbersome for average users to 
          comprehend. So, much like the FASTOPEN external command in DR-DOS, 
          this particular implementation of COLOUR helps to clarify its 
-         functionality and proper usage.(For Enhanced DR-DOS only).
+         functionality and proper usage (For Enhanced DR-DOS only).
          
 FASTOPEN - This particular implementation of FASTOPEN helps to clarify its 
            functionality and proper usage. It is even smaller in size than its 
