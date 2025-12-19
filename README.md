@@ -27,6 +27,9 @@ SANE - An all-in-one reboot and shutdown program for DOS that works on any PC,
 
 |Filename|Description|
 |--------|---|
+|`COLOUR`|All-in-one safe reboot and shutdown for DOS with few extras.
+|`FASTOPEN`|All-in-one safe reboot and shutdown for DOS with few extras.
+|`HISTORY`|All-in-one safe reboot and shutdown for DOS with few extras. For DR-DOS, Enhanced DR-DOS, OpenDOS, Novell DOS, and its siblings. Not for MS-DOS, PC-DOS, etc.
 |`SANE`|All-in-one safe reboot and shutdown for DOS with few extras.
 
 With_Others:
