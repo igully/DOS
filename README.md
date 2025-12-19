@@ -27,8 +27,8 @@ SANE - An all-in-one reboot and shutdown program for DOS that works on any PC,
 
 |Filename|Description|
 |--------|---|
-|`COLOUR`|All-in-one safe reboot and shutdown for DOS with few extras.
-|`FASTOPEN`|All-in-one safe reboot and shutdown for DOS with few extras.
+|`COLOUR`|Helps to clarify the usage of CONFIG.SYS COLOUR statement. For Enhanced DR-DOS only
+|`FASTOPEN`|Helps to clarify the usage of CONFIG.SYS FASTOPEN statement. For DR-DOS and its sibblings. Not for MS-DOS, PC-DOS, etc.
 |`HISTORY`|Helps to clarify the usage of CONFIG.SYS HISTORY statement. For DR-DOS and its sibblings. Not for MS-DOS, PC-DOS, etc.
 |`SANE`|All-in-one safe reboot and shutdown for DOS with few extras.
 
