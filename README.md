@@ -8,4 +8,6 @@
 
 With_Others:
 -----------
-Sparrow Commander.ver.1.23.English.zip - Updated and bugfixed version of this tiny file manager.
+|Filename|Description|
+|--------|---|
+|`SPARROW123.ZIP`|Updated and bugfixed version of this tiny file manager.
