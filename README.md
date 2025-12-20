@@ -10,4 +10,4 @@ With_Others:
 -----------
 |Filename|Description|
 |--------|---|
-|`SPARROW123.ZIP`|Updated and bugfixed version of this tiny file manager.
+|`SPARROW`|Updated and bugfixed version of this tiny file manager.
