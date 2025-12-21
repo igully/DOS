@@ -15,4 +15,5 @@ With_Others:
 |`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
 |`EXE2BIN`|Tiny replacement for the DOS external command..
 |`MEM`|Hacked binary that offers to quit when using paged mode display (/P).
+|`PRN2FILE`|Prints to a file. Improved built-in help and instructions.
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
