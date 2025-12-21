@@ -28,6 +28,6 @@ With_Others:
 |`DOSCLIP`|DOS clipboard. New copy & paste scan codes, modifed a few text strings, help and text color.
 |`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
 |`EXE2BIN`|Tiny replacement for the DOS external command.
-|`MEM`|Hacked binary that offers to quit when using paged mode display (/P).
+|`MEM`|Hacked binary that offers to quit when using paged mode display (/P) and has a more visible separator.
 |`PRN2FILE`|Prints to a file. Improved built-in help and instructions.
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
