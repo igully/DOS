@@ -11,6 +11,7 @@
 |`IPXCHECK`|Checks whether IPX (NetWare) services are available or not.
 |`KEYMODET`|Detects a connected keyboard and mouse availability.
 |`LFNCHECK`|Indicates whether a Long File Name (LFN) API is present or not.
+|`MORE`|Tiny replacement for the DOS external command.
 |`PCSA`|Reports on the PC system architecture (XT, AT or ATX), bus type (ISA, MCA or PCI) and BIOS date.
 |`PKTCHECK`|Detects the presence of a resident packet driver.
 |`PORTS`|Lists the system's serial (COM) and parallel (LPT) ports.
@@ -26,7 +27,7 @@ With_Others:
 |`DIMMER`|Brightens or dimms VGA display output. Hacked binary that improves built-in help.
 |`DOSCLIP`|DOS clipboard. New copy & paste scan codes, modifed a few text strings, help and text color.
 |`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
-|`EXE2BIN`|Tiny replacement for the DOS external command..
+|`EXE2BIN`|Tiny replacement for the DOS external command.
 |`MEM`|Hacked binary that offers to quit when using paged mode display (/P).
 |`PRN2FILE`|Prints to a file. Improved built-in help and instructions.
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
