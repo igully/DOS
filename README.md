@@ -11,3 +11,4 @@ With_Others:
 |Filename|Description|
 |--------|---|
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
+|`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
