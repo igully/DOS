@@ -12,7 +12,7 @@ With_Others:
 |--------|---|
 |`CHOICE`|Tiny replacement for the DOS external command.
 |`DIMMER`|Brightens or dimms VGA display output. Hacked binary that improves built-in help.
-|`DOSCIP`|DOS clipboard. New copy & paste scan codes, modifed a few text strings and changed help and text color.
+|`DOSCLIP`|DOS clipboard. New copy & paste scan codes, modifed a few text strings and changed help and text color.
 |`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
 |`EXE2BIN`|Tiny replacement for the DOS external command..
 |`MEM`|Hacked binary that offers to quit when using paged mode display (/P).
