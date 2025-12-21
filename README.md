@@ -8,6 +8,7 @@
 |`FASTOPEN`|Helps to clarify the usage of CONFIG.SYS FASTOPEN statement. For DR-DOS and its sibblings.
 |`HISTORY`|Helps to clarify the usage of CONFIG.SYS HISTORY statement. For DR-DOS and its sibblings.
 |`IPXCHECK`|Checks whether IPX (NetWare) services are available or not.
+|`KEYMODET`|Detects a connected keyboard and mouse availability.
 |`LFNCHECK`|Indicates whether a Long File Name (LFN) API is present or not.
 |`PCSA`|Reports on the PC system architecture (XT, AT or ATX), bus type (ISA, MCA or PCI) and BIOS date.
 |`PKTCHECK`|Detects the presence of a resident packet driver.
