@@ -10,6 +10,7 @@ With_Others:
 -----------
 |Filename|Description|
 |--------|---|
-|`SPARROW`|Updated and bugfixed version of this tiny file manager.
+|`CHOICE`|Tiny replacement for the DOS external command.
 |`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
 |`MEM`|Hacked binary that offers to quit when using pagad mode display (/P).
+|`SPARROW`|Updated and bugfixed version of this tiny file manager.
