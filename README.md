@@ -9,7 +9,7 @@
 |`IPXCHECK`|Checks whether IPX (NetWare) services are available or not.
 |`LFNCHECK`|Indicates whether a Long File Name (LFN) API is present or not.
 |`PORTS`| Lists the system's serial (COM) and parallel (LPT) ports.
-|`SANE`|All-in-one safe reboot and shutdown with BIOS password reset, drive parking and DOS stabilization.
+|`SANE`|All-in-one safe reboot, shutdown, BIOS password reset, drive parking and DOS stabilization.
 |`SEL`|Artificially sets the DOS return code (errorlevel) to a specified value. Useful for batch files.
 
 With_Others:
