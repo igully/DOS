@@ -12,3 +12,4 @@ With_Others:
 |--------|---|
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
 |`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
+|`MEM`|Hacked binary that offers to quit when using pagad mode display (/P).
