@@ -2,6 +2,7 @@
 |Filename|Description|
 |--------|---|
 |`COLOUR`|Helps to clarify the usage of CONFIG.SYS COLOUR statement. For Enhanced DR-DOS only
+|`CPUDET`|Detects CPU type and displays the result setting an errorlevel.
 |`FASTOPEN`|Helps to clarify the usage of CONFIG.SYS FASTOPEN statement. For DR-DOS and its sibblings.
 |`HISTORY`|Helps to clarify the usage of CONFIG.SYS HISTORY statement. For DR-DOS and its sibblings.
 |`IPXCHECK`|Checks whether IPX (NetWare) services are available or not.
