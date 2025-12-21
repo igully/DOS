@@ -4,6 +4,7 @@
 |`COLOUR`|Helps to clarify the usage of CONFIG.SYS COLOUR statement. For Enhanced DR-DOS only
 |`FASTOPEN`|Helps to clarify the usage of CONFIG.SYS FASTOPEN statement. For DR-DOS and its sibblings.
 |`HISTORY`|Helps to clarify the usage of CONFIG.SYS HISTORY statement. For DR-DOS and its sibblings.
+|`IPXCHECK`|Checks whether IPX (NetWare) services are available or not.
 |`SANE`|All-in-one safe reboot and shutdown with BIOS password reset, drive parking and DOS stabilization.
 |`SEL`|Artificially sets the DOS return code (errorlevel) to a specified value. Useful for batch files.
 
