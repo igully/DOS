@@ -12,5 +12,6 @@ With_Others:
 |--------|---|
 |`CHOICE`|Tiny replacement for the DOS external command.
 |`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
+|`EXE2BIN`|Tiny replacement for the DOS external command..
 |`MEM`|Hacked binary that offers to quit when using pagad mode display (/P).
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
