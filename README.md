@@ -3,6 +3,7 @@
 |--------|---|
 |`COLOUR`|Helps to clarify the usage of CONFIG.SYS COLOUR statement. For Enhanced DR-DOS only
 |`CPUDET`|Detects CPU type and displays the result setting an errorlevel.
+|`DRIVES`|Displays general information about drives (Available drives, boot drive and LASTDRIVE).
 |`EMUDET`|Detects the active presence of a virtual or emulated environment.
 |`FASTOPEN`|Helps to clarify the usage of CONFIG.SYS FASTOPEN statement. For DR-DOS and its sibblings.
 |`HISTORY`|Helps to clarify the usage of CONFIG.SYS HISTORY statement. For DR-DOS and its sibblings.
