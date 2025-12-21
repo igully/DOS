@@ -9,6 +9,7 @@
 |`HISTORY`|Helps to clarify the usage of CONFIG.SYS HISTORY statement. For DR-DOS and its sibblings.
 |`IPXCHECK`|Checks whether IPX (NetWare) services are available or not.
 |`LFNCHECK`|Indicates whether a Long File Name (LFN) API is present or not.
+|`PCSA`|Reports on the PC system architecture, bus type and BIOS date.
 |`PKTCHECK`|Detects the presence of a resident packet driver.
 |`PORTS`|Lists the system's serial (COM) and parallel (LPT) ports.
 |`SANE`|All-in-one safe reboot, shutdown, BIOS password reset, drive parking and DOS stabilization.
