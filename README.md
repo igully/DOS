@@ -11,7 +11,7 @@
 |`PORTS`| Lists the system's serial (COM) and parallel (LPT) ports.
 |`SANE`|All-in-one safe reboot, shutdown, BIOS password reset, drive parking and DOS stabilization.
 |`SEL`|Artificially sets the DOS return code (errorlevel) to a specified value. Useful for batch files.
-|`VIDEODET`|Detects video display adapter type and sets an errorlevel (Hercules or MDA, CGA, EGA, VGA, and VBE).
+|`VIDEODET`|Detects video display adapter type and sets an errorlevel (Herc. or MDA, CGA, EGA, VGA, and VBE).
 
 With_Others:
 -----------
