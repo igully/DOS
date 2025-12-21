@@ -11,6 +11,7 @@ With_Others:
 |Filename|Description|
 |--------|---|
 |`CHOICE`|Tiny replacement for the DOS external command.
+|`DIMMER`|Brightens or dimms VGA display output. Hacked binary that improves built-in help.
 |`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
 |`EXE2BIN`|Tiny replacement for the DOS external command..
 |`MEM`|Hacked binary that offers to quit when using paged mode display (/P).
