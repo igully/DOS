@@ -1,7 +1,6 @@
 
 |Filename|Description|
 |--------|---|
-|`COLOUR`|Helps to clarify the usage of CONFIG.SYS COLOUR statement. For Enhanced DR-DOS only
 |`CPUDET`|Detects CPU type and displays the result setting an errorlevel.
 |`CSR`|Either makes the text mode cursor visible or hides it.
 |`DRIVES`|Displays general information about drives (Available drives, boot drive and LASTDRIVE).
@@ -12,6 +11,7 @@
 |`KEYMODET`|Detects a connected keyboard and mouse availability.
 |`LFNCHECK`|Indicates whether a Long File Name (LFN) API is present or not.
 |`MORE`|Tiny replacement for the DOS external command.
+|`NCOMPARE`|Compares two numbers and evaluates if a condition is met (EQU, LSS, GTR, NEQ, LEQ and GEQ).
 |`PCSA`|Reports on the PC system architecture (XT, AT or ATX), bus type (ISA, MCA or PCI) and BIOS date.
 |`PKTCHECK`|Detects the presence of a resident packet driver.
 |`PORTS`|Lists the system's serial (COM) and parallel (LPT) ports.
