@@ -10,6 +10,7 @@
 |`IPXCHECK`|Checks whether IPX (NetWare) services are available or not.
 |`KEYMODET`|Detects a connected keyboard and mouse availability.
 |`LFNCHECK`|Indicates whether a Long File Name (LFN) API is present or not.
+|`MACADDR`|Displays unique network MAC address under NetWare or Alloy NTNX/RTNX.
 |`MORE`|Tiny replacement for the DOS external command.
 |`NCOMPARE`|Compares two numbers and evaluates if a condition is met (EQU, LSS, GTR, NEQ, LEQ and GEQ).
 |`PCSA`|Reports on the PC system architecture (XT, AT or ATX), bus type (ISA, MCA or PCI) and BIOS date.
