@@ -34,6 +34,6 @@ With_Others:
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
 |`SUPERTED`|Removed the annoying .BAK file creation from this tiny text editor.
 
-DOS Distributions I have supported:
+DOS distributions I have supported:
 ----------------------------------
 MiNiDOS -> https://archive.org/details/@minidos622
