@@ -33,3 +33,7 @@ With_Others:
 |`PRN2FILE`|Prints to a file. Improved built-in help and usage instructions.
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
 |`SUPERTED`|Removed the annoying .BAK file creation from this tiny text editor.
+
+DOS Distributions I have supported:
+----------------------------------
+MiNiDOS -> https://archive.org/details/@minidos622
