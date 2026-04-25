@@ -2,7 +2,7 @@
 |Filename|Description|
 |--------|---|
 |`CPUDET`|Detects CPU type and displays the result setting an errorlevel.
-|`CSR`|Either makes the text mode cursor visible or hides it.
+|`CSR`|Modifies cursor shape or visibility under text modes.
 |`DRIVES`|Displays general information about drives (Available drives, boot drive and LASTDRIVE).
 |`EMUDET`|Detects the active presence of a virtual or emulated environment.
 |`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
