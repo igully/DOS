@@ -38,11 +38,11 @@ With_Others:
 |`DOSCLIP`|DOS clipboard. New copy & paste scan codes, modifed a few text strings, help and text color.
 |`EXE2BIN`|Tiny replacement for the DOS external command.
 |`FORMAT`|Version check and command line help hack on Microsoft's v4.01 of this program.
-|`WHAT`|Returns an errorlevel on the current date and time. Hacked binary with improved built-in help.
 |`MEM`|Hacked binary that offers to quit in paged mode display (/P), with a more visible separator.
 |`PRN2FILE`|Prints to a file. Improved built-in help and usage instructions.
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
 |`SUPERTED`|Removed the annoying .BAK file creation from this tiny text editor.
+|`WHAT`|Returns an errorlevel on the current date and time. Hacked binary with improved built-in help.
 
 DOS distributions I have supported:
 ----------------------------------
