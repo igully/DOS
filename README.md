@@ -24,6 +24,7 @@
 |`SANE`|All-in-one safe reboot, shutdown, BIOS password reset, drive parking and DOS stabilization.
 |`SEL`|Artificially sets the DOS return code (errorlevel) to a specified value. Useful for batch files.
 |`SETVER`|Fakes DOS version.
+|`UNIALERT`|Provides a wide range of notification options.
 |`VIDEODET`|Detects video display adapter type and sets an errorlevel (Herc. or MDA, CGA, EGA, VGA, and VBE).
 
 With_Others:
@@ -42,6 +43,7 @@ With_Others:
 |`SPARROW`|Updated and bugfixed version of this tiny file manager.
 |`SUPERTED`|Removed the annoying .BAK file creation from this tiny text editor.
 |`TREE`|Displays the directory structure of a drive.
+|`TINYAES`|Advanced Encryption Standard utility.
 |`WHAT`|Returns an errorlevel on the current date and time. Hacked binary with improved built-in help.
 
 DOS distributions I have supported:
