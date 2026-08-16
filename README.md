@@ -49,3 +49,4 @@ With_Others:
 DOS distributions I have supported:
 ----------------------------------
 MiNiDOS -> https://archive.org/details/@minidos622
+SvarDOS -> http://svardos.org/
