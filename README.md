@@ -31,6 +31,6 @@ DOS distributions I have supported:
 ----------------------------------
 IONDOS -> (NOT AVAILABLE YET!)
 
-MiNiDOS -> https://archive.org/details/@minidos622
+MiNiDOS -> https://archive.org/details/minidos-003
 
 SvarDOS -> http://svardos.org/
