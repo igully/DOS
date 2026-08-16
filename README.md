@@ -29,6 +29,8 @@
 
 DOS distributions I have supported:
 ----------------------------------
+IONDOS -> (NOT AVAILABLE YET!)
+
 MiNiDOS -> https://archive.org/details/@minidos622
 
 SvarDOS -> http://svardos.org/
