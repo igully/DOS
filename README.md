@@ -1,4 +1,4 @@
-With_Others: https://github.com/igully/DOS/tree/main/With_Others
+With other developers: https://github.com/igully/DOS/tree/main/With_Others
 
 |Filename|Description|
 |--------|---|
