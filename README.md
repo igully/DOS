@@ -1,4 +1,4 @@
-With other developers: https://github.com/igully/DOS/tree/main/With_Others
+Software made with other developers: https://github.com/igully/DOS/tree/main/With_Others
 
 |Filename|Description|
 |--------|---|
@@ -6,7 +6,7 @@ With other developers: https://github.com/igully/DOS/tree/main/With_Others
 |`CSR`|Modifies cursor shape or visibility under text modes.
 |`DRIVES`|Displays general information about drives (Available drives, boot drive and LASTDRIVE).
 |`EMUDET`|Detects the active presence of a virtual or emulated environment.
-|`ENVINFO`|Hacked binary that improves display layout, enhaced built-in text, and added path display.
+|`ENVINFO`|Displays the DOS environment contents and its memory status.
 |`FASTOPEN`|Helps to clarify the usage of CONFIG.SYS FASTOPEN statement. For DR-DOS and its sibblings.
 |`FLOPPY`|Reports available floppy drive types.
 |`HISTORY`|Helps to clarify the usage of CONFIG.SYS HISTORY statement. For DR-DOS and its sibblings.
