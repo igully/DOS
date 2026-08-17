@@ -4,7 +4,7 @@ Software made with other developers: https://github.com/igully/DOS/tree/main/Wit
 |--------|---|
 |`CPUDET`|Detects CPU type and displays the result setting an errorlevel.
 |`CSR`|Modifies cursor shape or visibility under text modes.
-|`DRIVES`|Displays general information about drives (Available drives, boot drive and LASTDRIVE).
+|`DRIVES`|Displays general information about drives (Available drives, drive readiness, boot drive and LASTDRIVE).
 |`EMUDET`|Detects the active presence of a virtual or emulated environment.
 |`ENVINFO`|Displays the DOS environment contents and its memory status.
 |`FASTOPEN`|Helps to clarify the usage of CONFIG.SYS FASTOPEN statement. For DR-DOS and its sibblings.
