@@ -15,6 +15,7 @@ Software made with other developers: https://github.com/igully/DOS/tree/main/Wit
 |`LABEL`|Modifies the volume name of a drive.
 |`LANCHECH`|Detects and displays an active LAN type, setting an errorlevel.
 |`LFNCHECK`|Indicates whether a Long File Name (LFN) API is present or not.
+|`LOADFIX`|Fixes "Packed file corrupt" when executing some programs.
 |`MACADDR`|Displays unique network MAC address under NetWare or Alloy NTNX/RTNX.
 |`MORE`|Sends input in blocks the size of one screen to STDOUT.
 |`NCOMPARE`|Compares two numbers and evaluates if a condition is met (EQU, LSS, GTR, NEQ, LEQ and GEQ).
