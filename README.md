@@ -22,7 +22,6 @@ Software made with other developers: https://github.com/igully/DOS/tree/main/Wit
 |`OFFEMS`|Hides Expanded memory (EMS) and its services.
 |`PCSA`|Reports on PC architecture (XT, AT or ATX), bus type (ISA, MCA or PCI), serial and parallel ports and BIOS date.
 |`PKTCHECK`|Detects the presence of a resident packet driver.
-|`PORTS`|Lists the system's serial (COM) and parallel (LPT) ports.
 |`SANE`|All-in-one safe reboot, shutdown, BIOS password reset, drive parking and DOS stabilization.
 |`SEL`|Artificially sets the DOS return code (errorlevel) to a specified value. Useful for batch files.
 |`SETVER`|Fakes DOS version.
