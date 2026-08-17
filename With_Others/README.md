@@ -17,3 +17,4 @@ With_Others:
 |`TREE`|Displays the directory structure of a drive.
 |`TINYAES`|Advanced Encryption Standard utility.
 |`WHAT`|Returns an errorlevel on the current date and time. Hacked binary with improved built-in help.
+|`XCOPY`|Copies directories, their subdirectories, and files.
