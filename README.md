@@ -16,7 +16,7 @@ Software made with other developers: https://github.com/igully/DOS/tree/main/Wit
 |`LANCHECH`|Detects and displays an active LAN type, setting an errorlevel.
 |`LFNCHECK`|Indicates whether a Long File Name (LFN) API is present or not.
 |`MACADDR`|Displays unique network MAC address under NetWare or Alloy NTNX/RTNX.
-|`MORE`|Tiny replacement for the DOS external command.
+|`MORE`|Sends input in blocks the size of one screen to STDOUT.
 |`NCOMPARE`|Compares two numbers and evaluates if a condition is met (EQU, LSS, GTR, NEQ, LEQ and GEQ).
 |`OFFEMS`|Hides Expanded memory (EMS) and its services.
 |`PCSA`|Reports on the PC system architecture (XT, AT or ATX), bus type (ISA, MCA or PCI) and BIOS date.
