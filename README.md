@@ -7,9 +7,9 @@ Software made with other developers: https://github.com/igully/DOS/tree/main/Wit
 |`DRIVES`|Displays information about drives (availability, readiness, FAT type, boot drive, and LASTDRIVE).
 |`EMUDET`|Detects the active presence of a virtual or emulated environment.
 |`ENVINFO`|Displays the DOS environment contents and its memory status.
-|`FASTOPEN`|Helps to clarify the usage of CONFIG.SYS FASTOPEN statement. For DR-DOS and its sibblings.
+|`FASTOPEN`|Helps to clarify the usage of config.sys FASTOPEN statement. For DR-DOS and its sibblings.
 |`FLOPPY`|Reports available floppy drive types.
-|`HISTORY`|Helps to clarify the usage of CONFIG.SYS HISTORY statement. For DR-DOS and its sibblings.
+|`HISTORY`|Helps to clarify the usage of config.sys HISTORY statement. For DR-DOS and its sibblings.
 |`IPXCHECK`|Checks whether IPX (NetWare) services are available or not.
 |`KEYMODET`|Detects a connected keyboard and mouse availability.
 |`LABEL`|Modifies the volume name of a drive.
