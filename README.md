@@ -20,7 +20,7 @@ Software made with other developers: https://github.com/igully/DOS/tree/main/Wit
 |`MORE`|Sends input in blocks the size of one screen to STDOUT.
 |`NCOMPARE`|Compares two numbers and evaluates if a condition is met (EQU, LSS, GTR, NEQ, LEQ and GEQ).
 |`OFFEMS`|Hides Expanded memory (EMS) and its services.
-|`PCSA`|Reports on PC architecture (XT, AT or ATX), bus type (ISA, MCA or PCI), serial and parallel ports and BIOS date.
+|`PCSA`|Reports on PC architecture (XT, AT or ATX), bus type (ISA, MCA or PCI), serial and parallel ports, floppy drives and BIOS date.
 |`PKTCHECK`|Detects the presence of a resident packet driver.
 |`SANE`|All-in-one safe reboot, shutdown, BIOS password reset, drive parking and DOS stabilization.
 |`SEL`|Artificially sets the DOS return code (errorlevel) to a specified value. Useful for batch files.
