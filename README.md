@@ -4,7 +4,7 @@ Software made with other developers: https://github.com/igully/DOS/tree/main/Wit
 |--------|---|
 |`CPUDET`|Detects CPU type and displays the result setting an errorlevel.
 |`CSR`|Modifies cursor shape or visibility under text modes.
-|`DRIVES`|Displays information about drives (Availability, readiness, FAT type, boot drive, and LASTDRIVE).
+|`DRIVES`|Displays information about drives (availability, readiness, FAT type, boot drive, and LASTDRIVE).
 |`EMUDET`|Detects the active presence of a virtual or emulated environment.
 |`ENVINFO`|Displays the DOS environment contents and its memory status.
 |`FASTOPEN`|Helps to clarify the usage of CONFIG.SYS FASTOPEN statement. For DR-DOS and its sibblings.
@@ -24,7 +24,7 @@ Software made with other developers: https://github.com/igully/DOS/tree/main/Wit
 |`PKTCHECK`|Detects the presence of a resident packet driver.
 |`SANE`|All-in-one safe reboot, shutdown, BIOS password reset, drive parking and DOS stabilization.
 |`SEL`|Artificially sets the DOS return code (errorlevel) to a specified value. Useful for batch files.
-|`SETVER`|Fakes DOS version.
+|`SETVER`|Fakes the DOS version.
 |`UNIALERT`|Provides a wide range of notification options.
 |`VIDEODET`|Detects video display adapter type and sets an errorlevel (Herc. or MDA, CGA, EGA, VGA, and VBE).
 
