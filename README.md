@@ -11,7 +11,6 @@ Software made with other developers: https://github.com/igully/DOS/tree/main/Wit
 |`FLOPPY`|Reports available floppy drive types.
 |`HISTORY`|Helps to clarify the usage of config.sys HISTORY statement. For DR-DOS and its sibblings.
 |`IPXCHECK`|Checks whether IPX (NetWare) services are available or not.
-|`KEYMODET`|Detects a connected keyboard and mouse availability.
 |`LANCHECH`|Detects and displays an active LAN type, setting an errorlevel.
 |`LFNCHECK`|Indicates whether a Long File Name (LFN) API is present or not.
 |`LOADFIX`|Fixes "Packed file corrupt" when executing some programs.
